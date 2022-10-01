@@ -1,3 +1,3 @@
 # Hangman-React
 
-### Basic react app 🙂
+### Basic hangman react app 🙌
